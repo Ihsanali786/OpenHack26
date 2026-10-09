@@ -1,9 +1,26 @@
-# 💡 OpenHack'26 — Problem Statements
+<div align="center">
 
-5 Categories × 3 Problems = 15 Problems
+<img src="assets/logo.png" alt="OpenHack'26" width="180"/>
 
-Problem statements will be released at the start of the hackathon:
-**13 October 2026 — 11:00 AM**
+# 💡 Problem Statements
+
+### Think. Build. **Push.**
+
+![Problems](https://img.shields.io/badge/PROBLEMS-15-bd00ff?style=for-the-badge&labelColor=0b0b0f)
+![Categories](https://img.shields.io/badge/CATEGORIES-5-9dff00?style=for-the-badge&labelColor=0b0b0f)
+![Release](https://img.shields.io/badge/RELEASE-13_OCT_2026_•_11:00_AM-bd00ff?style=for-the-badge&labelColor=0b0b0f)
+
+[🏠 Home](README.md) · [📜 Rules](RULES.md) · [📋 Submission Guide](SUBMISSION_GUIDELINES.md) · [⚖️ Judging](JUDGING.md)
+
+</div>
+
+<img src="assets/divider.png" width="100%" height="4" alt=""/>
+
+### 🔥 5 Categories × 3 Problems = 15 Problems
+
+> [!NOTE]
+> Problem statements will be released at the start of the hackathon:
+> **13 October 2026 — 11:00 AM**
 
 ## 🏥 HealthTech
 - Problem 01
