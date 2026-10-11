@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="assets/logo.png" alt="OpenHack'26" width="180"/>
