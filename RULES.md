@@ -7,7 +7,7 @@
 ### Build Fair. Build Yourself. Build With Impact.
 
 ![Read](https://img.shields.io/badge/READ_BEFORE-PARTICIPATING-bd00ff?style=for-the-badge&labelColor=0b0b0f)
-![Start](https://img.shields.io/badge/START-13_OCT_2026_•_11:00_AM-9dff00?style=for-the-badge&labelColor=0b0b0f)
+<!-- ![Start](https://img.shields.io/badge/START-13_OCT_2026_•_11:00_AM-9dff00?style=for-the-badge&labelColor=0b0b0f) -->
 ![Team](https://img.shields.io/badge/TEAM-2–3_STUDENTS-bd00ff?style=for-the-badge&labelColor=0b0b0f)
 
 [🏠 Home](README.md) · [📋 Problems](PROBLEMS.md) · [📦 Submit](SUBMISSION_GUIDELINES.md) · [⚖️ Judging](JUDGING.md) · [🤖 AI Policy](AI_AND_OPEN_SOURCE.md) · [🧑‍💻 Conduct](CODE_OF_CONDUCT.md)
@@ -120,8 +120,8 @@ OpenHack'26 is a:
 | Schedule | Details |
 | :-- | :-- |
 | **Hackathon Duration** | **24 Hours** |
-| **Start** | **13 October 2026 — 11:00 AM** |
-| **End** | **14 October 2026 — 11:00 AM** |
+| **Start** | **13 October 2026 ** |
+| **End** | **14 October 2026 — ** |
 
 Teams are expected to develop their solution during the official hackathon period.
 
